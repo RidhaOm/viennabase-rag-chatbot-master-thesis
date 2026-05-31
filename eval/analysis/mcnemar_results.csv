@@ -1,0 +1,9 @@
+config_a,config_b,metric,n_paired,a_successes,b_successes,both_1,both_0,only_a_1,only_b_1,p_value_two_sided,significant_at_0.05,effect_direction
+baseline,no_threshold,acceptable,79,66,68,64,9,2,4,0.6875,False,no_threshold > baseline
+baseline,no_threshold,good,79,60,62,58,15,2,4,0.6875,False,no_threshold > baseline
+baseline,no_threshold,grounded,79,73,74,72,4,1,2,1.0,False,no_threshold > baseline
+baseline,no_threshold,correct_fallback,25,25,23,23,0,2,0,0.5,False,baseline > no_threshold
+baseline,no_history,acceptable,79,66,62,60,11,6,2,0.2891,False,baseline > no_history
+baseline,no_history,good,79,60,52,50,17,10,2,0.0386,True,baseline > no_history
+baseline,no_history,grounded,79,73,74,72,4,1,2,1.0,False,no_history > baseline
+baseline,no_history,correct_fallback,28,25,18,18,3,7,0,0.0156,True,baseline > no_history

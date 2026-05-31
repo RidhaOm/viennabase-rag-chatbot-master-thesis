@@ -1,0 +1,269 @@
+"id","is_followup","answerable","topic","question","expected_answer","expected_sources","answer","sources_returned_labels","retrieval_query","no_context","latency_s","answer_quality","is_grounded","correct_fallback","notes","config"
+"1","0","1","reparatur_technik","Ich habe keine Strom im Zimmer. Was kann ich tun?","Bitte melde das Problem ueber deinen mybase-Bereich. Wenn es ein dringender technischer Notfall ausserhalb der Telefonzeiten ist, schreibe an emergency@viennabase.at und sende Beschreibung, Namen, Viennabase mit Zimmernummer und Telefonnummer.","faq","Bitte informiere uns über deinen **mybase-Bereich**. Unser **Haustechniker** kümmert sich dann **schnellstmöglich** darum.
+
+Wenn es sich um einen **technischen Notfall außerhalb unserer Telefonzeiten** handelt, fehlt in den verfügbaren Quellen leider die genaue Anleitung.","faq","Ich habe keine Strom im Zimmer. Was kann ich tun?","","1.5592","ok","1","NA","Fehlende genaue Notfall-Schritte ausserhalb der Telefonzeiten.","no_history"
+"2","1","1","sonstiges","Es ist aber ein Notfall","Bei einem dringenden technischen Notfall ausserhalb der Telefonzeiten sollst du an emergency@viennabase.at schreiben und Beschreibung, Namen, Viennabase mit Zimmernummer und Telefonnummer senden. Bearbeitet werden nur dringende Notfaelle.","faq","Wenn es ein **technischer Notfall außerhalb unserer Telefonzeiten** ist, liegt mir aus dem verfügbaren Kontext leider **keine genaue Anweisung** vor, was du dann tun sollst.
+
+Bitte schau in deinem **mybase-Bereich** nach oder kontaktiere uns dort, damit der Haustechniker informiert werden kann.  
+Wenn du magst, kann ich dir auch helfen, deine Situation kurz zu formulieren.","faq","Es ist aber ein Notfall","","1.5184","bad","1","NA","FAQ enthaelt eine konkrete Notfall-Anweisung mit emergency@viennabase.at.","no_history"
+"3","0","1","finanzen","Ich moechte morgen ausziehen. Bekomme ich meine Kaution zurueck?","Die Kaution wird erst nach dem Auszug und nach dem Ende deines Vertrags auf dein Konto ueberwiesen. Endreinigungsgebuehr, Schaeden oder offene Forderungen koennen abgezogen werden oder die Rueckzahlung verzoegern.","faq","Ja, grundsätzlich wird dir die Kaution **nach Auszug und nach Ende deines Vertrages** auf dein Konto überwiesen.
+
+Bitte beachte:
+- **Schäden** im Zimmer/in der Wohnung können die Rückzahlung verzögern oder mindern.
+- Die **Endreinigungsgebühr** wird laut Benützungsvertrag von der Kaution abgezogen.
+- Wenn es noch **offene finanzielle Verpflichtungen** gegenüber Viennabase gibt, kann das ebenfalls Auswirkungen haben.
+
+Für die Rücküberweisung musst du über deinen **mybase-Bereich**:
+- deine **Bankdaten**
+- und die **Abmeldebestätigung vom Meldeamt**
+senden.
+
+Wenn du magst, kann ich dir auch sagen, was du beim Auszug sonst noch unbedingt erledigen musst.","faq","Ich moechte morgen ausziehen. Bekomme ich meine Kaution zurueck?","","1.7371","good","1","NA","","no_history"
+"4","1","1","vertrag","Ich habe also keine Kuendigungsfrist?","Doch, es gibt feste Kuendigungszeitpunkte. Wenn du bis Ende November kuendigst, kannst du Ende Februar ausziehen. Wenn du bis Ende April kuendigst, kannst du Ende Juni oder Juli ausziehen.","faq|AGBs","Doch, es gibt eine Kündigungsfrist.
+
+Laut den verfügbaren Informationen gilt:
+- Für einen Auszug **Ende Februar** muss spätestens **bis 30.11. des Vorjahres** gekündigt werden.
+- Für einen Auszug **Ende Juni oder Ende Juli** muss spätestens **bis 30.4. desselben Jahres** gekündigt werden.
+
+Zusätzlich können **abweichende Kündigungsfristen schriftlich im Benützungsvertrag oder Gastvertrag** vereinbart sein.
+
+Wenn du möchtest, kann ich dir auch kurz sagen, **bis wann du konkret kündigen musst, wenn du zu einem bestimmten Datum ausziehen willst**.","faq | AGBs","Ich habe also keine Kuendigungsfrist?","","1.4219","good","1","NA","","no_history"
+"5","0","0","kontakt_verwaltung","Wann ist die Heimleitung da?","","","Die verfügbaren Quellen nennen **keine festen Anwesenheitszeiten der Heimleitung**.
+
+Es steht nur, dass **Schadensbehebungen durch Haustechniker*innen während der üblichen Dienstzeiten** stattfinden. Wenn du wissen möchtest, **wann die Verwaltung/Heimleitung erreichbar ist**, bräuchte ich dafür eine genauere Quelle oder du kannst direkt bei der jeweiligen Viennabase-Hausverwaltung nachfragen.","Heimstatut","Wann ist die Heimleitung da?","","1.4991","ok","1","0","Bot lehnt zwar ab aber mischt verwandte Infos hinein; Teilversuch einer Antwort.","no_history"
+"6","0","1","vertrag","Ich moechte meine Vertrag verlaengern","Du kannst die Verlaengerung ueber deinen mybase-Bereich beantragen. Fuer das naechste Studienjahr musst du die Einverstaendniserklaerung spaetestens bis 15. Maerz schicken. Eine Verlaengerung ist nur moeglich, wenn du noch studierst und keine offenen Zahlungen hast.","faq|AGBs|Heimstatut","Du kannst deinen Vertrag für das nächste Studienjahr über deinen **mybase-Bereich** verlängern. Dafür musst du uns deine **schriftliche Einverständniserklärung** schicken, also deinen Wunsch auf Verlängerung und auf Zusendung eines Angebots.
+
+Wichtig:
+- **Frist:** bis spätestens **15. März** des laufenden Studienjahres
+- Eine Verlängerung ist **nur möglich, solange du Student/in bist**
+- **Nicht möglich**, wenn du mit Zahlungen im Rückstand bist
+
+Wenn du möchtest, kann ich dir auch helfen, die Formulierung für deine Verlängerungsanfrage zu schreiben.","faq | AGBs | Heimstatut","Ich moechte meine Vertrag verlaengern","","1.6076","good","1","NA","","no_history"
+"7","0","1","hausordnung","Darf Viennabase mein Zimmer betreten?","Ja. Nach rechtzeitiger Vorankuendigung darf Viennabase dein Zimmer zur Kontrolle von Zustand, Sauberkeit oder Inventar betreten. Bei Gefahr im Verzug oder fuer notwendige Reparaturen ist ein Betreten auch ohne Vorankuendigung erlaubt.","Heimstatut","Aus den vorliegenden Informationen geht nicht klar hervor, ob und unter welchen Umständen Viennabase dein Zimmer betreten darf. In den verfügbaren Quellen steht dazu keine zuverlässige Regel.
+
+Wenn du möchtest, kann ich dir helfen, die passenden Stellen im Heimstatut dazu einzuordnen oder die Frage genauer zu formulieren.","Heimstatut | faq","Darf Viennabase mein Zimmer betreten?","","1.7489","bad","0","NA","Heimstatut erlaubt Betreten nach Vorankuendigung bzw. bei Gefahr auch ohne Vorankuendigung.","no_history"
+"8","0","1","einzug","Wie und wo erhalte ich meine Schluessel?","Den Schluessel bekommst du in deiner Viennabase am 1. Werktag des Einzugsmonats von 14:00 bis 15:30 Uhr. Faellt der Monatsbeginn auf ein Wochenende oder einen Feiertag, bekommst du ihn am naechsten Werktag. Du musst einen Lichtbildausweis mitbringen.","faq","Du kannst deinen Schlüssel am **1. Werktag des Einzugsmonats** zwischen **14:00 und 15:30 Uhr** in deiner **Viennabase** abholen.  
+Falls dieses Datum auf ein Wochenende fällt, ist die Abholung am **nächsten Werktag** möglich.
+
+Wichtig:
+- **Lichtbildausweis mitbringen**
+- **Am Wochenende werden keine Schlüssel ausgegeben**
+
+Wenn du selbst nicht kommen kannst, kann **eine Person deines Vertrauens** den Schlüssel abholen. Dafür braucht diese Person ebenfalls einen **Lichtbildausweis** und ihr müsst uns **vorher über mybase** den Namen und die Erlaubnis zur Herausgabe schicken.","faq","Wie und wo erhalte ich meine Schluessel?","","1.6354","good","1","NA","","no_history"
+"9","0","0","einzug","Kann ich am Abend einziehen? Mein Flug kommt erst sehr spaet an.","","","Im verfügbaren Kontext finde ich dazu keine zuverlässige Information.  
+Ob ein Einzug am Abend möglich ist, wird hier nicht erwähnt. Wenn du möchtest, kann ich dir helfen, die Frage als kurze Nachricht an den Servicedesk zu formulieren.","faq","Kann ich am Abend einziehen? Mein Flug kommt erst sehr spaet an.","","1.1966","good","1","1","","no_history"
+"10","0","1","umzug","Ich moechte in ein anderes Zimmer ziehen.","Ein Umzug in ein anderes Zimmer oder in eine andere Viennabase ist moeglich. Du musst den Umzugswunsch schriftlich ueber deinen mybase-Bereich beantragen. Wenn etwas frei ist, bekommst du ein Umzugsangebot.","faq|AGBs","Ja, das ist möglich. Bitte melde deinen Umzugswunsch über deinen **mybase-Bereich**. Wenn ein passendes Zimmer verfügbar ist, erhältst du von uns ein **Umzugsangebot**.","faq","Ich moechte in ein anderes Zimmer ziehen.","","1.1012","good","1","NA","","no_history"
+"11","1","0","sonstiges","Wieviel kostet das?","","","Das variiert je nach Zimmer und Viennabase. Eine Übersicht über alle Zimmerpreise findest du unter **Zimmer und Preise**.","faq","Wieviel kostet das?","","1.102","bad","0","0","Bot behauptet 'variiert je nach Zimmer' ohne Quellenbeleg; nicht grounded.","no_history"
+"12","0","0","umzug","Gibt es aktuell freie Zimmer?","","","Dazu liegen in den verfügbaren Quellen keine verlässlichen aktuellen Angaben vor. Es heißt ausdrücklich, dass telefonisch keine verbindlichen Auskünfte über die Verfügbarkeit gegeben werden können, da sich die Zimmerverfügbarkeit laufend ändert.
+
+Am besten prüfst du die Übersicht unter **„Zimmer und Preise“** oder fragst direkt bei Viennabase nach.","faq | Heimstatut","Gibt es aktuell freie Zimmer?","","1.3059","good","1","1","","no_history"
+"13","0","1","kontakt_verwaltung","Wie ist die Emailadresse von Viennabase?","Die allgemeine E-Mail-Adresse ist office@viennabase.at.","AGBs","Die im Kontext genannte E-Mail-Adresse lautet **emergency@viennabase.at**.
+
+Wenn du möchtest, kann ich dir auch sagen, **wofür diese Adresse laut Kontext verwendet wird**.","faq | Heimstatut","Wie ist die Emailadresse von Viennabase?","","1.2352","bad","0","NA","Gefragt war die allgemeine E-Mail-Adresse; korrekt waere office@viennabase.at.","no_history"
+"14","0","0","kontakt_verwaltung","Wann ist das Buero geoeffnet?","","","Aus den उपलब्धenen Quellen kann ich das **Büroöffnungszeit** nicht zuverlässig entnehmen.  
+Die vorhandenen Informationen nennen nur:
+
+- **Einzug / Schlüsselabholung**: am **1. Werktag** des Einzugsmonats, jeweils **ab 14:00 Uhr** (Schlüsselabholung bis **15:30 Uhr**)
+- **Am Wochenende** werden **keine Schlüssel** ausgegeben
+
+Wenn du möchtest, kann ich dir helfen, die Frage in eine präzisere Form zu bringen, z. B. ob du die **Schlüsselabholzeiten** oder die **allgemeinen Bürozeiten** meinst.","faq | Heimstatut","Wann ist das Buero geoeffnet?","","1.6262","good","1","1","","no_history"
+"15","0","0","sonstiges","Wie breit ist die Matratze in meinem Zimmer?","","","Ich konnte in den verfügbaren Viennabase-Quellen keine verlässliche Antwort auf diese Frage finden. Bitte kontaktiere das Viennabase-Büro direkt oder frage die Heimleitung, um eine sichere Auskunft zu erhalten.","","Wie breit ist die Matratze in meinem Zimmer?","1.0","0.5059","good","1","1","","no_history"
+"16","0","0","kontakt_verwaltung","Wer ist die heimleitung in der Viennabase donau?","","","Die verfügbaren Quellen nennen keine konkrete Person als Heimleitung der **Viennabase Donau**.  
+Ich kann dir nur sagen, dass du dich laut Kontext **direkt an die Heimleitung vor Ort wenden** sollst und den **Service Desk während der Öffnungszeiten** oder telefonisch unter **+43 1 369 54 90** kontaktieren kannst.
+
+Wenn du möchtest, kann ich dir helfen, die passende Kontaktstelle für Viennabase Donau aus dem vorhandenen Text noch genauer einzugrenzen.","faq | Heimstatut","Wer ist die heimleitung in der Viennabase donau?","","1.7656","ok","1","0","Bot lehnt ab, gibt aber Zusatzinfos zur Heimleitung-Kontaktaufnahme.","no_history"
+"17","0","1","umzug","Ist der Umzug gratis?","Nein. Laut Quellen gibt es eine Umzugsgebuehr.","AGBs","Im verfügbaren Material steht nur, dass du deinen Umzugswunsch über den mybase-Bereich melden sollst und bei Verfügbarkeit ein Umzugsangebot erhältst. Ob der Umzug gratis ist, geht daraus nicht hervor.","faq","Ist der Umzug gratis?","","1.2343","bad","1","NA","AGBs nennen eine Umzugsgebuehr; der Bot haette also nicht ablehnen sollen.","no_history"
+"18","0","0","sonstiges","Wie funktioniert das waschen?","","","Ich konnte in den verfügbaren Viennabase-Quellen keine verlässliche Antwort auf diese Frage finden. Bitte kontaktiere das Viennabase-Büro direkt oder frage die Heimleitung, um eine sichere Auskunft zu erhalten.","","Wie funktioniert das waschen?","1.0","0.128","good","1","1","","no_history"
+"19","0","1","finanzen","Ich habe einen Vertrag ab September? Bekomme ich meine Kaution zurueck wenn ich jetzt storniere?","Das haengt davon ab, wie lange es noch bis zum Vertragsbeginn ist: mehr als 60 Tage vor Beginn bekommst du die Kaution abzüglich Buchungs-/Bearbeitungsgebuehr zurueck, zwischen 60 und 30 Tagen vor Beginn wird zusaetzlich ein monatliches Benutzungsentgelt einbehalten, und weniger als 30 Tage vor Beginn bleibt die gesamte Kaution bei Viennabase.","faq|AGBs|Heimstatut","Das hängt vom Zeitpunkt des Rücktritts im Verhältnis zum **Vertragsbeginn** ab:
+
+- **Mehr als 60 Tage vor Vertragsbeginn**: Die Kaution wird **abzüglich der Buchungs-/Bearbeitungsgebühr** rückerstattet.
+- **Zwischen 60 und 30 Tagen vor Vertragsbeginn**: Die Buchungs-/Bearbeitungsgebühr und **ein monatliches Benützungsentgelt** werden einbehalten, der Rest der Kaution wird rückerstattet.
+- **Zwischen 30 Tagen und 1 Tag vor Vertragsbeginn**: **Die gesamte Kaution bleibt bei Viennabase**.
+
+Wenn dein Vertrag also **ab September** beginnt, kann ich ohne das genaue Storno-Datum nicht sicher sagen, ob du die Kaution zurückbekommst. Wenn du magst, nenn mir bitte das **genaue Storno-Datum**, dann kann ich es anhand der Regel einordnen.","faq","Ich habe einen Vertrag ab September? Bekomme ich meine Kaution zurueck wenn ich jetzt storniere?","","2.0259","good","1","NA","","no_history"
+"20","0","1","vertrag","Wie muss ich stornieren?","Der Ruecktritt bzw. die Stornierung muss schriftlich erfolgen.","AGBs|Heimstatut","Du musst den Rücktritt **schriftlich** an Viennabase bekanntgeben.
+
+Laut den verfügbaren Informationen kannst du das zum Beispiel so machen:
+- **per Post**
+- **per E-Mail** an **office@viennabase.at**
+- **über deinen mybase-Bereich**
+
+Ein Muster-Rücktrittsformular ist vorhanden, **aber nicht vorgeschrieben**.
+
+Wenn du möchtest, kann ich dir auch die genannte Kontaktadresse oder den E-Mail-Text direkt zusammenfassen.","faq | AGBs | Heimstatut","Wie muss ich stornieren?","","1.3961","good","1","NA","","no_history"
+"21","0","1","hausordnung","Gibt es in den Zimmern Geschirr?","Nein. Laut FAQ sollst du Glaeser, Teller, Geschirr, Kochutensilien und Besteck selbst mitbringen.","faq","Ja – zum Einzug sollst du laut Kontext selbst die notwendigsten Dinge mitbringen, darunter **Gläser, Teller, Geschirr, Kochutensilien und Besteck**.  
+Das deutet darauf hin, dass **Geschirr nicht standardmäßig in den Zimmern vorhanden ist**.","Heimstatut | faq","Gibt es in den Zimmern Geschirr?","","1.1706","ok","1","NA","Kernaussage ist richtig, aber der Einstieg ist missverstaendlich formuliert.","no_history"
+"22","1","1","hausordnung","Gibt es Bettwaesche?","Nein. Laut FAQ sollst du Bettwaesche, Hand- und Badetuecher, Polster und Decke selbst mitbringen.","faq","Ich konnte in den verfügbaren Viennabase-Quellen keine verlässliche Antwort auf diese Frage finden. Bitte kontaktiere das Viennabase-Büro direkt oder frage die Heimleitung, um eine sichere Auskunft zu erhalten.","","Gibt es Bettwaesche?","1.0","0.1427","bad","1","0","FAQ sagt, dass Bettwaesche selbst mitgebracht werden muss.","no_history"
+"23","0","0","gaeste","Kann ich meine Mitbewohner selbst aussuchen?","","","Dazu finde ich in den verfügbaren Quellen keine verlässliche Information. Es wird zwar erwähnt, dass es verschiedene Wohnungs- und WG-Typen gibt, aber nicht, ob du deine Mitbewohner selbst auswählen kannst. Wenn du möchtest, kann ich dir helfen, die passenden Kontaktstellen oder Formulierungen für eine Anfrage an Viennabase zu finden.","faq | Heimstatut","Kann ich meine Mitbewohner selbst aussuchen?","","1.3113","good","1","1","","no_history"
+"24","0","1","tiere","Darf ich meine Katze mitnehmen?","Tiere sind nur fuer Studierende der Vetmed und nur mit vorheriger schriftlicher Genehmigung der Heimverwaltung erlaubt. Ausserdem ist Tierhaltung nur in bestimmten Zimmerkategorien moeglich.","Heimstatut","Das hängt laut den verfügbaren Informationen von mehreren Bedingungen ab:
+
+- Das Halten von Tieren ist **nur Studierenden der Vetmed** gestattet.
+- Dafür braucht man **vorher eine schriftliche Genehmigung der Heimverwaltung**.
+- Außerdem ist es **nur in bestimmten Zimmerkategorien möglich**.
+
+Für eine Katze kann ich daher nur sagen: **Nur unter diesen Voraussetzungen**. Wenn du möchtest, kann ich dir auch helfen, die genauen Punkte für eine Anfrage an die Heimverwaltung zu formulieren.","faq | Heimstatut","Darf ich meine Katze mitnehmen?","","1.5993","good","1","NA","","no_history"
+"25","1","1","tiere","Und Hunde?","Tiere sind nur fuer Studierende der Vetmed und nur mit vorheriger schriftlicher Genehmigung der Heimverwaltung erlaubt. Ausserdem ist Tierhaltung nur in bestimmten Zimmerkategorien moeglich.","Heimstatut","Ich konnte in den verfügbaren Viennabase-Quellen keine verlässliche Antwort auf diese Frage finden. Bitte kontaktiere das Viennabase-Büro direkt oder frage die Heimleitung, um eine sichere Auskunft zu erhalten.","","Und Hunde?","1.0","0.4783","bad","1","0","Die gleiche Tierregel gilt auch fuer Hunde.","no_history"
+"26","1","1","tiere","Und Schlangen?","Tiere sind nur fuer Studierende der Vetmed und nur mit vorheriger schriftlicher Genehmigung der Heimverwaltung erlaubt. Ausserdem ist Tierhaltung nur in bestimmten Zimmerkategorien moeglich.","Heimstatut","Ich konnte in den verfügbaren Viennabase-Quellen keine verlässliche Antwort auf diese Frage finden. Bitte kontaktiere das Viennabase-Büro direkt oder frage die Heimleitung, um eine sichere Auskunft zu erhalten.","","Und Schlangen?","1.0","0.4361","bad","1","0","Die gleiche Tierregel gilt auch fuer Schlangen.","no_history"
+"27","0","1","einzug","Ich habe meinen Schluessel verloren. Was soll ich tun?","Melde den Verlust sofort. Laut FAQ wird aus Sicherheitsgruenden ein kostenpflichtiger Schlosstausch von etwa EUR 245 vorgenommen. Ausserhalb der Oeffnungszeiten sollst du an emergency@viennabase.at schreiben.","faq|Heimstatut","Ein Schlüsselverlust ist leider kostenpflichtig. Bitte melde dich **umgehend** bei Viennabase, da aus Sicherheitsgründen ein **kostenpflichtiger Schlosstausch** durchgeführt werden muss (ca. **EUR 245,--**).
+
+**Außerhalb der Öffnungszeiten** sende bitte ein E-Mail an **emergency@viennabase.at** und nenne:
+- deinen Namen
+- deine Viennabase
+- deine Zimmernummer
+- eine Telefonnummer, unter der du erreichbar bist
+
+","faq","Ich habe meinen Schluessel verloren. Was soll ich tun?","","1.4954","good","1","NA","","no_history"
+"28","1","1","einzug","Ich habe nur meinen Chip verloren","Melde den Verlust des Chips sofort der Heimverwaltung. Weitere Details oder konkrete Kosten nur fuer einen verlorenen Chip nennen die Quellen nicht.","Heimstatut","Ich konnte in den verfügbaren Viennabase-Quellen keine verlässliche Antwort auf diese Frage finden. Bitte kontaktiere das Viennabase-Büro direkt oder frage die Heimleitung, um eine sichere Auskunft zu erhalten.","","Ich habe nur meinen Chip verloren","1.0","0.1414","bad","1","0","Heimstatut spricht von Schluesseln/Chips; Verlust soll unverzueglich gemeldet werden.","no_history"
+"29","0","0","einzug","Wo bekomme ich einen neuen Schluessel?","","","Wenn du deinen **Schlüssel verloren** hast, musst du dich **umgehend** melden. Laut den verfügbaren Infos wird dann aus Sicherheitsgründen ein **kostenpflichtiger Schlosstausch** durchgeführt.  
+
+**Was du tun sollst:**
+- **Während der Öffnungszeiten:** sofort melden
+- **Außerhalb der Öffnungszeiten:** eine E-Mail an **emergency@viennabase.at**
+- Bitte nenne dabei:
+  - deinen **Namen**
+  - deine **Viennabase inkl. Zimmernummer**
+  - eine **Telefonnummer**, unter der du erreichbar bist
+
+Einen „neuen Schlüssel“ bekommst du also nicht einfach so; in den verfügbaren Unterlagen steht nur, dass bei Schlüsselverlust ein **Schlosstausch** nötig ist.","faq","Wo bekomme ich einen neuen Schluessel?","","1.7081","bad","1","0","Keine direkte Quellenantwort, Bot beantwortet stattdessen allgemein den Schluesselverlust.","no_history"
+"30","0","1","einzug","Ich moechte frueher einziehen. Geht das?","Ein Einzug vor Vertragsbeginn ist nur nach Ruecksprache moeglich. Es koennen zusaetzliche Kosten anfallen.","faq","Ja, ein Einzug vor Vertragsbeginn ist **nur nach Rücksprache möglich**; **zusätzliche Kosten können anfallen**.  
+Ansonsten ist der Einzug **immer am 1. Werktag des Einzugsmonats ab 14:00 Uhr** möglich.
+
+Wenn du möchtest, kann ich dir auch sagen, **wie die Schlüsselabholung dafür geregelt ist**.","faq","Ich moechte frueher einziehen. Geht das?","","1.3164","good","1","NA","","no_history"
+"31","0","1","gaeste","Wie oft duerfen Freunde bei mir uebernachten?","Freunde duerfen nicht bei dir uebernachten. Es gilt ein Uebernachtungsverbot.","faq|Heimstatut","Freunde dürfen dich **besuchen**, aber es ist **nicht möglich, dass sie bei dir übernachten oder mehrere Tage bei dir wohnen**.  
+Laut den verfügbaren Informationen gilt in allen Viennabase ein **Übernachtungsverbot**.
+
+Wenn du möchtest, kann ich dir auch sagen, was das für **Besuche am Abend** oder **Gäste im Zimmer** bedeutet.","faq | Heimstatut","Wie oft duerfen Freunde bei mir uebernachten?","","1.4011","good","1","NA","","no_history"
+"32","0","1","reparatur_technik","Darf ich eine Klimaanlage in mein Zimmer stellen?","Eine Klimaanlage ist nur in Ausnahmefaellen mit vorheriger schriftlicher Zustimmung der Heimleitung und gegen Aufpreis moeglich.","Heimstatut","Eine Klimaanlage ist nur in Ausnahmefällen erlaubt und braucht vorher die **schriftliche Zustimmung der Heimleitung**. Außerdem ist sie **nur gegen Aufpreis** möglich.
+
+Wenn du möchtest, kann ich dir auch sagen, was im Kontext zu **Heizgeräten und anderen elektrischen Geräten** steht.","Heimstatut | faq","Darf ich eine Klimaanlage in mein Zimmer stellen?","","1.2683","good","1","NA","","no_history"
+"33","0","1","hausordnung","Werden die Zimmer gereinigt?","Die Bewohnerinnen und Bewohner muessen ihre Zimmer grundsaetzlich selbst reinigen. Wenn Zimmerreinigung im Benutzungsentgelt enthalten ist, muss dem Reinigungspersonal Zutritt gemaess Reinigungsplan gewaehrt werden.","Heimstatut","Ja — **wenn die Reinigung der Heimzimmer im Benützungsentgelt enthalten ist**, muss das Reinigungspersonal laut Reinigungsplan Zugang zum Zimmer bekommen.
+
+Außerdem steht in den Infos, dass die **Heimbewohner*innen ihre Zimmer grundsätzlich selbst reinigen müssen**. Wenn ein Zimmer stark verschmutzt ist und nicht innerhalb einer vorgegebenen Frist gereinigt wird, kann Viennabase eine **kostenpflichtige Reinigung** beauftragen.","Heimstatut | faq","Werden die Zimmer gereinigt?","","1.3717","good","1","NA","","no_history"
+"34","0","0","hausordnung","Es wurde yoghurt in der Stockwerkskueche gestohlen. Was soll ich tun?","","","Ich konnte in den verfügbaren Viennabase-Quellen keine verlässliche Antwort auf diese Frage finden. Bitte kontaktiere das Viennabase-Büro direkt oder frage die Heimleitung, um eine sichere Auskunft zu erhalten.","","Es wurde yoghurt in der Stockwerkskueche gestohlen. Was soll ich tun?","1.0","0.1323","good","1","1","","no_history"
+"35","0","1","bewerbung","wie alt muss ich sein damit ich mich um einen heimplatz bewerben kann?","Die Quellen sind nicht einheitlich: Die FAQ sagt, es gibt keine Altersbeschraenkung. Die Aufnahmerichtlinien sagen aber, dass reguläre Bewerberinnen und Bewerber hoechstens 30 Jahre alt sein duerfen.","faq|Aufnahmerichtlinien","Aus dem verfügbaren Kontext geht **kein Mindestalter** hervor.  
+Es steht nur, dass du **für einen regulären Heimplatz Student*in sein musst**; für **Studienanfänger*innen** dient das **Maturazeugnis als Anspruchsnachweis**.
+
+Wenn du möchtest, kann ich dir auch helfen, die Frage nach den **Aufnahmerichtlinien** genauer einzuordnen.","Heimstatut | faq","wie alt muss ich sein damit ich mich um einen heimplatz bewerben kann?","","1.6093","ok","1","NA","Frage nach Mindestalter beantwortet; Konflikt zur Obergrenze aus den Aufnahmerichtlinien nicht erwaehnt.","no_history"
+"36","1","1","bewerbung","Gibt es eine Altersgrenze?","Die Quellen sind nicht einheitlich: Die FAQ sagt, es gibt keine Altersbeschraenkung. Die Aufnahmerichtlinien sagen aber, dass regulaere Bewerberinnen und Bewerber hoechstens 30 Jahre alt sein duerfen.","faq|Aufnahmerichtlinien","Nein, in den verfügbaren Informationen gibt es **keine Altersgrenze** für die Aufnahme.","faq","Gibt es eine Altersgrenze?","","1.3446","bad","1","NA","FAQ und Aufnahmerichtlinien sind widerspruechlich; die Obergrenze von 30 Jahren fehlt.","no_history"
+"37","0","1","gaeste","Kann ich mit einer Freundin gemeinsam wohnen?","Es gibt eine Zimmerkategorie 'Studio Apartment couple' mit einem Doppelbett. Weitere Bedingungen fuer gemeinsames Wohnen stehen in den vorliegenden Quellen nicht.","Heimstatut","Ja, **unter bestimmten Wohnungsarten** scheint das möglich zu sein: In den verfügbaren Informationen werden **„Studio Apartment friends (2 Einzelbetten)”** sowie **„Studio Apartment couple (1 Doppelbett)”** genannt.
+
+Für andere Unterkunftsarten ist aus dem vorliegenden Kontext **nicht eindeutig ersichtlich**, ob gemeinsames Wohnen mit einer Freundin erlaubt ist. Wenn du möchtest, kann ich dir helfen, die passende Wohnungsart aus den genannten Optionen einzuordnen.","faq | Heimstatut","Kann ich mit einer Freundin gemeinsam wohnen?","","1.599","good","1","NA","","no_history"
+"38","0","1","einzug","Wo und wann bekomme ich den Meldezettel?","Den Meldezettel bekommst du bei der Schluesselabholung. Danach musst du dich innerhalb von drei Tagen beim Meldeamt anmelden.","faq","Den abgestempelten **Meldezettel bekommst du bei der Schlüsselabholung**.  
+Danach musst du dich **innerhalb von drei Tagen beim Meldeamt registrieren**.","faq","Wo und wann bekomme ich den Meldezettel?","","1.0745","good","1","NA","","no_history"
+"39","0","1","kontakt_verwaltung","Wie ist die Adresse der viennabase22?","Die Adresse der Viennabase22 ist Adelheid-Popp-Gasse 24, 1220 Wien.","Heimstatut","Die verfügbaren Quellen nennen für **Viennabase22** leider **keine Adresse**.  
+Ich konnte nur eine Adresse für **Viennabasedonau** finden: **Kaisermühlenstraße 14, 1220 Wien**.
+
+Wenn du möchtest, kann ich dir auch sagen, wie du das Viennabase Studierendenservice direkt erreichst.","faq | Heimstatut","Wie ist die Adresse der viennabase22?","","1.4576","bad","0","NA","Adresse der Viennabase22 steht im Heimstatut: Adelheid-Popp-Gasse 24, 1220 Wien.","no_history"
+"40","1","1","sonstiges","Und viennabase11?","Die Adresse der Viennabase11 ist Medwedweg 3, 1110 Wien.","Heimstatut","Die verfügbaren Informationen nennen **keine Adresse für die viennabase11**.
+
+Ich konnte in den vorliegenden Quellen nur allgemein sehen, dass **viennabase11** zu den Häusern mit WLAN/LAN gehört. Wenn du möchtest, kann ich dir helfen, die Adresse mit weiteren Angaben einzugrenzen.","faq","Und viennabase11?","","1.2563","bad","1","NA","Adresse der Viennabase11 steht im Heimstatut: Medwedweg 3, 1110 Wien.","no_history"
+"41","0","0","sonstiges","Und viennabase3?","","","Dazu finde ich in den verfügbaren Quellen keine zuverlässige Information.
+
+Wenn du mit „Viennabase3“ ein bestimmtes Haus, einen Bereich oder ein Angebot meinst, sag mir bitte kurz, was genau du wissen möchtest, dann prüfe ich es gern anhand des vorhandenen Kontexts.","faq | Heimstatut","Und viennabase3?","","1.3444","good","1","1","","no_history"
+"42","0","1","reparatur_technik","Wann ist der Haustechniker da?","Schadensbehebungen durch die Haustechnikerinnen und Haustechniker finden waehrend der ueblichen Dienstzeiten statt. Fuer technische Notfaelle ausserhalb der Telefonzeiten wird emergency@viennabase.at laut FAQ zu bestimmten Zeiten geprueft.","faq|Heimstatut","Der Haustechniker kümmert sich **schnellstmöglich** darum.  
+In den verfügbaren Quellen steht außerdem, dass Schadensbehebungen **während der üblichen Dienstzeiten** stattfinden. Eine genauere Uhrzeit ist nicht angegeben.","Heimstatut | faq","Wann ist der Haustechniker da?","","1.2943","good","1","NA","","no_history"
+"43","0","1","finanzen","Wie hoch ist die Kaution?","Die Kaution entspricht immer zwei monatlichen Benutzungsentgelten.","faq|AGBs|Heimstatut","Die Kaution beträgt immer **2 monatliche Benützungsentgelte**. Der genaue Betrag hängt also vom jeweiligen Zimmer und der Viennabase ab.","faq","Wie hoch ist die Kaution?","","1.2902","good","1","NA","","no_history"
+"44","1","0","finanzen","Kann ich sie auch mit Kreditkarte bezahlen?","","","Nach den verfügbaren Informationen wird das monatliche Benützungsentgelt per **Einzugsermächtigung vom Konto** eingehoben bzw. ohne SEPA per **Überweisung auf das angegebene Konto** bezahlt.  
+Eine **Bezahlung mit Kreditkarte** wird in den verfügbaren Quellen **nicht erwähnt**, daher kann ich das nicht zuverlässig bestätigen.
+
+Wenn du möchtest, kann ich dir auch die genauen Zahlungswege noch einmal kurz zusammenfassen.","faq","Kann ich sie auch mit Kreditkarte bezahlen?","","1.9897","good","1","1","","no_history"
+"45","0","1","finanzen","Bis wann muss ich die Miete bezahlen?","Das monatliche Benutzungsentgelt ist spaetestens bis zum 5. des Monats faellig. In der Regel wird es per SEPA um den 5. des Monats vom Konto eingezogen.","faq|AGBs|Heimstatut","Die monatliche Zahlung wird per Einzugsermächtigung um den 5. des Monats von deinem Konto abgezogen. Wenn wir noch kein SEPA-Mandat von dir haben, musst du das Benützungsentgelt selbstständig pünktlich bis zum 5. des Monats überweisen.
+
+Wenn du möchtest, kann ich dir auch die angegebene Bankverbindung nennen.","faq | Heimstatut","Bis wann muss ich die Miete bezahlen?","","1.4635","good","1","NA","","no_history"
+"46","1","0","sonstiges","Kann ich auch mit Kreditkarte zahlen?","","","Dazu finde ich in den verfügbaren Quellen keine zuverlässige Information.  
+Genannt werden nur **Einzugsermächtigung/SEPA-Lastschrift** bzw. **Überweisung bis zum 5. des Monats**. Eine Zahlung mit **Kreditkarte** wird nicht erwähnt.","faq","Kann ich auch mit Kreditkarte zahlen?","","1.1561","good","1","1","","no_history"
+"47","0","1","finanzen","Wann bekomme ich meine Kaution zurueck?","Die Kaution bekommst du nach dem Auszug und nach dem Ende deines Vertrags auf dein Konto ueberwiesen.","faq|AGBs","Deine Kaution bekommst du **nach Auszug und Ende deines Vertrages** auf dein Konto überwiesen.
+
+Bitte beachte:
+- **Schäden** in Zimmer/Wohnung können die Rückzahlung verzögern.
+- Die **Endreinigungsgebühr** wird von der Kaution abgezogen.
+- Wenn du Schäden verursacht hast oder noch offene Beträge bestehen, kann ein Teil einbehalten werden.
+
+Für die Rücküberweisung musst du über deinen **mybase-Bereich** deine **Bankdaten** sowie die **Abmeldebestätigung vom Meldeamt** senden.","faq","Wann bekomme ich meine Kaution zurueck?","","1.6045","good","1","NA","","no_history"
+"48","1","0","sonstiges","Und wie lange dauert es?","","","Ich konnte in den verfügbaren Viennabase-Quellen keine verlässliche Antwort auf diese Frage finden. Bitte kontaktiere das Viennabase-Büro direkt oder frage die Heimleitung, um eine sichere Auskunft zu erhalten.","","Und wie lange dauert es?","1.0","0.1451","good","1","1","","no_history"
+"49","0","0","hausordnung","Ich brauche dringend eine Bestaetigung fuer die Ma35","","","Ich konnte in den verfügbaren Viennabase-Quellen keine verlässliche Antwort auf diese Frage finden. Bitte kontaktiere das Viennabase-Büro direkt oder frage die Heimleitung, um eine sichere Auskunft zu erhalten.","","Ich brauche dringend eine Bestaetigung fuer die Ma35","1.0","0.1554","good","1","1","","no_history"
+"50","0","0","kontakt_verwaltung","Eine Bestaetigung fuer das Visa","","","Meinst du eine **Bestätigung für das Visum**?
+
+Im verfügbaren Kontext finde ich dazu **keine verlässliche Information**. Es steht nur, dass Viennabase den **Studierendenstatus** jederzeit überprüfen und eine **Studienbestätigung** einfordern darf.
+
+Wenn du möchtest, kann ich dir helfen, die Frage genauer zu formulieren, z. B.:
+- **Braucht Viennabase eine Bestätigung für das Visum auszustellen?**
+- **Wird eine Studienbestätigung für das Visum akzeptiert?**
+- **Kann ich mit Visumsbestätigung einziehen?**","Aufnahmerichtlinien","Eine Bestaetigung fuer das Visa","","1.5375","ok","1","0","Bot lehnt zwar ab, mischt aber irrelevante Info (Studienstatus-Pruefung) hinein.","no_history"
+"51","0","1","finanzen","Wie teuer ist ein Feueralarm?","Es gibt keinen festen Betrag in den vorliegenden Quellen. Ausgeloeste Feuer- und Taeuschungsalarme werden in der tatsaechlich anfallenden Hoehe dem Verursacher verrechnet.","faq|Heimstatut","Ich konnte in den verfügbaren Viennabase-Quellen keine verlässliche Antwort auf diese Frage finden. Bitte kontaktiere das Viennabase-Büro direkt oder frage die Heimleitung, um eine sichere Auskunft zu erhalten.","","Wie teuer ist ein Feueralarm?","1.0","0.1355","bad","1","0","Quellen nennen keinen Fixbetrag, aber sagen klar, dass tatsaechlich anfallende Kosten verrechnet werden.","no_history"
+"52","0","1","hausordnung","Darf ich im Zimmer rauchen?","Nein. Im gesamten Gebaeude gilt Rauchverbot. Rauchen ist nur in ausgewiesenen Raucherzonen bzw. im Aussenbereich bei den Aschenbechern erlaubt.","faq|Heimstatut","Nein. Im gesamten Gebäude gilt Rauchverbot, ausdrücklich auch in den Heimzimmern. Rauchen ist nur in ausgewiesenen Raucherzonen und im Außenbereich bei den Aschenbechern erlaubt.","faq | Heimstatut","Darf ich im Zimmer rauchen?","","1.1151","good","1","NA","","no_history"
+"53","0","1","hausordnung","Darf ich in meinem Zimmer Poster an die wand haengen?","Nein. An den Waenden darf nichts angebracht werden, auch nicht mit Tixo. Nur vorhandene Pinnwaende duerfen benutzt werden.","Heimstatut","Nein. Laut den vorliegenden Regeln darf an den Wänden im Zimmer nichts angebracht werden, **auch nicht mit Tixo**. **Lediglich etwaige Pinnwände** dürfen dafür benutzt werden.
+
+Wenn du möchtest, kann ich dir auch sagen, was laut den Regeln sonst noch im Zimmer an den Wänden erlaubt oder verboten ist.","Heimstatut","Darf ich in meinem Zimmer Poster an die wand haengen?","","1.9141","good","1","NA","","no_history"
+"54","0","1","reparatur_technik","Kann der Haustechniker kommen?","Ja. Die Behebung von Schaeden kann durch die Haustechnikerinnen und Haustechniker ohne Terminvereinbarung und auch ohne deine Anwesenheit erfolgen. Sie findet waehrend der ueblichen Dienstzeiten statt.","Heimstatut","Ja, laut den verfügbaren Informationen kann die Behebung von Schäden durch die Haustechniker*innen **ohne Terminvereinbarung und ohne Anwesenheit des/der Heimbewohner/in** erfolgen. Die Schadensbehebung findet **während der üblichen Dienstzeiten** statt.
+
+Wenn du ein technisches Problem hast, melde es bitte über deinen **mybase-Bereich**.","Heimstatut | faq","Kann der Haustechniker kommen?","","1.9044","good","1","NA","","no_history"
+"55","0","1","finanzen","Darf ich in den Ferien mein Zimmer vermieten?","Nein. Die Ueberlassung oder Nutzung deines Zimmers durch Dritte ist ausdruecklich untersagt und kann zur ausserordentlichen Kuendigung fuehren.","Heimstatut","Nein. Eine **Überlassung an Dritte** ist untersagt und kann zum **sofortigen Heimplatzverlust** führen.
+
+Wenn du möchtest, kann ich dir auch sagen, was die Quellen zu **Gästen** oder **Besucher*innen** im Heim sagen.","faq | Heimstatut","Darf ich in den Ferien mein Zimmer vermieten?","","1.3289","good","1","NA","","no_history"
+"56","0","1","reparatur_technik","Meine Dusche ist verstopft. Was soll ich tun?","Melde den Schaden ueber deinen mybase-Bereich, damit keine Folgeschaeden entstehen und sich der Haustechniker darum kuemmert.","faq|Heimstatut","Bitte informiere uns über deinen mybase-Bereich, damit keine Folgeschäden entstehen. Unser Haustechniker kümmert sich dann schnellstmöglich darum.
+
+Wenn du magst, kann ich dir auch sagen, wie du das am besten kurz meldest.","faq","Meine Dusche ist verstopft. Was soll ich tun?","","1.3343","good","1","NA","","no_history"
+"57","0","1","reparatur_technik","Es tropft Wasser von der Decke. Was soll ich tun?","Wenn es ein dringender technischer Notfall ist, sollst du ausserhalb der Telefonzeiten an emergency@viennabase.at schreiben und Beschreibung, Namen, Viennabase mit Zimmernummer und Telefonnummer senden. Sonst melde den Schaden ueber mybase.","faq|Heimstatut","Bitte informiere uns **sofort über deinen mybase-Bereich**, damit keine Folgeschäden entstehen. Unser **Haustechniker kümmert sich schnellstmöglich** darum.","faq","Es tropft Wasser von der Decke. Was soll ich tun?","","1.1303","ok","1","NA","mybase ist korrekt, aber bei dringendem Notfall ausserhalb der Telefonzeiten fehlt der emergency-Hinweis.","no_history"
+"58","0","0","hausordnung","Ich moechte am Samstag den Grill im Garten nutzen. Muss ich ihn reservieren?","","","Ich konnte in den verfügbaren Viennabase-Quellen keine verlässliche Antwort auf diese Frage finden. Bitte kontaktiere das Viennabase-Büro direkt oder frage die Heimleitung, um eine sichere Auskunft zu erhalten.","","Ich moechte am Samstag den Grill im Garten nutzen. Muss ich ihn reservieren?","1.0","0.1465","good","1","1","","no_history"
+"59","0","1","reparatur_technik","Wie kann ich einen Schaden melden?","Melde den Schaden ueber deinen mybase-Bereich.","faq|Heimstatut","Bitte melde den Schaden über deinen **mybase-Bereich**.  
+Damit können wir Folgeschäden vermeiden, und unser Haustechniker kümmert sich schnellstmöglich darum.
+
+Wenn der Schaden schon beim Einzug vorhanden ist, mach bitte zusätzlich **Fotos** und melde ihn ebenfalls über mybase.","faq | Heimstatut","Wie kann ich einen Schaden melden?","","1.2321","good","1","NA","","no_history"
+"60","1","0","sonstiges","Kann ich einen Termin vereinbaren?","","","Ja, der Einzug ist grundsätzlich am 1. Werktag ab 14:00 Uhr möglich. Ein Einzug vor Vertragsbeginn ist nur nach Rücksprache möglich; dabei können zusätzliche Kosten anfallen.
+
+Wenn du mit „Termin vereinbaren“ etwas anderes meinst, ist das in den verfügbaren Informationen leider nicht klar genug angegeben.","faq","Kann ich einen Termin vereinbaren?","","1.7019","bad","1","0","Frage nach Reparaturtermin wird mit Einzugsinformation verwechselt.","no_history"
+"61","1","0","reparatur_technik","Einen Termin fuer die Reparatur meinte ich","","","Ich konnte in den verfügbaren Viennabase-Quellen keine verlässliche Antwort auf diese Frage finden. Bitte kontaktiere das Viennabase-Büro direkt oder frage die Heimleitung, um eine sichere Auskunft zu erhalten.","","Einen Termin fuer die Reparatur meinte ich","1.0","0.9312","good","1","1","","no_history"
+"62","0","1","reparatur_technik","Mein wifi funktioniert nicht. Es soll ich tun?","Wenn dein WLAN nicht funktioniert, schreibe an support@viennabase.at und nenne deinen Namen, die Zimmernummer, Kontaktdaten und eine genaue Beschreibung des Problems.","faq","Wenn dein WLAN nicht funktioniert, wende dich bitte direkt an unseren Internetprovider per E-Mail an **support@viennabase.at** und sende dabei:
+
+- deinen **Namen**
+- deine **Zimmernummer**
+- deine **Kontaktdaten**
+- eine **detaillierte Beschreibung** des Problems
+
+Der Internetprovider kümmert sich dann um dein Anliegen.  
+Bitte nutze außerdem **keine eigenen Access Points/Router/Switches**, da diese die Internetverbindung stören können.","faq","Mein wifi funktioniert nicht. Es soll ich tun?","","2.1336","good","1","NA","","no_history"
+"63","0","1","finanzen","Wann wird meine Miete vom Konto abgebucht?","Die Miete bzw. das Benutzungsentgelt wird in der Regel um den 5. des Monats vom Konto abgebucht.","faq|AGBs","Die monatliche Miete bzw. das Benützungsentgelt wird automatisch **um den 5. des Monats** von deinem Konto abgebucht.
+
+Falls noch kein SEPA-Mandat vorliegt, musst du das Benützungsentgelt **selbstständig bis zum 5. des Monats** überweisen.","faq","Wann wird meine Miete vom Konto abgebucht?","","2.0263","good","1","NA","","no_history"
+"64","0","1","finanzen","Warum habe ich eine Mahnung erhalten?","Eine Mahnung kann kommen, wenn die Lastschrift nicht erfolgreich war oder das Benutzungsentgelt nicht rechtzeitig bezahlt wurde.","AGBs","Dazu finde ich in den उपलब्धenen Quellen keine zuverlässige Erklärung.  
+Es gibt zwar Infos zur Zahlung des monatlichen Benützungsentgelts: Es wird normalerweise automatisch um den 5. des Monats eingezogen, bzw. bei fehlendem SEPA musst du es selbst bis spätestens zum 5. überweisen.
+
+Wenn du eine Mahnung erhalten hast, könnte das also mit einer ausstehenden oder nicht erfolgreich eingezogenen Zahlung zusammenhängen — das steht aber nicht ausdrücklich in den vorliegenden Quellen. Wenn du möchtest, kann ich dir helfen, die Zahlungsinfos zusammenzufassen oder eine kurze Nachricht an Viennabase formulieren.","faq","Warum habe ich eine Mahnung erhalten?","","2.1934","bad","1","NA","AGBs erklaeren Mahnungen bei Rueckbuchung oder nicht rechtzeitiger Zahlung.","no_history"
+"65","0","0","einzug","Kann ich mein Zimmer vor Einzug besichtigen?","","","Dazu finde ich in den verfügbaren Informationen keine zuverlässige Antwort. Wenn du möchtest, kann ich dir aber sagen, was laut Kontext nach dem Einzug zu tun ist oder wie die Bewerbung abläuft.","faq","Kann ich mein Zimmer vor Einzug besichtigen?","","1.1938","good","1","1","","no_history"
+"66","0","1","finanzen","Kann ich ein Zimmer mieten auch wenn ich nicht studiere?","Ja, aber nur eingeschraenkt. Die FAQ sagt, Nicht-Studierende koennen als Gastplatz aufgenommen werden, wenn Plaetze frei sind. Die Aufnahmerichtlinien erlauben Gastplaetze an Nicht-Studierende nur in den Sommermonaten Juli, August und September oder bei kurzfristigen Leerstaenden nach individueller Pruefung.","faq|Aufnahmerichtlinien","Ja, aber nur als **Gastplatz** und **nur wenn freie Plätze verfügbar sind und keine Nachfrage von Studierenden besteht**. Der Preis kann dabei abweichen.
+
+Wenn du möchtest, kann ich dir auch sagen, welche Unterlagen man für die Bewerbung braucht.","faq","Kann ich ein Zimmer mieten auch wenn ich nicht studiere?","","1.1157","ok","1","NA","Antwort trifft die FAQ, laesst aber die Einschraenkung aus den Aufnahmerichtlinien weg.","no_history"
+"67","0","1","finanzen","Warum muss ich eine Anmeldegebuehr bezahlen?","Die Anmeldegebuehr wird fuer den administrativen Aufwand der Bearbeitung verlangt und ist nicht refundierbar.","faq|AGBs|Heimstatut","Die Anmeldegebühr wird verlangt, weil bei der Prüfung deiner Bewerbung administrativer Aufwand entsteht. Sie dient dazu, diese Kosten abzudecken. Die Gebühr ist nur einmal direkt bei der Bewerbung für das Zimmer zu bezahlen und nicht refundierbar.","faq","Warum muss ich eine Anmeldegebuehr bezahlen?","","1.1948","good","1","NA","","no_history"
+"68","1","1","vertrag","Und kostet die Vertragsverlaengerung etwas?","Ja. Bei einer Vertragsverlaengerung ist eine Buchungsgebuehr bzw. Bearbeitungsgebuehr faellig.","faq|AGBs","In den verfügbaren Informationen steht **nicht**, dass für die **Vertragsverlängerung selbst** eine Gebühr anfällt. Genannt wird nur, dass du die Verlängerung **bis 15. März** über deinen **mybase-Bereich** beantragen und deine **Einverständniserklärung** schicken musst.
+
+Falls du möchtest, kann ich dir auch kurz sagen, **was genau du für die Verlängerung tun musst**.","faq | AGBs","Und kostet die Vertragsverlaengerung etwas?","","1.4005","bad","0","NA","Verlaengerungen loesen laut FAQ/AGBs eine Buchungs- bzw. Bearbeitungsgebuehr aus.","no_history"
+"69","0","1","vertrag","Bis wann muss ich meinen Vertrag verlaengern?","Fuer das naechste Studienjahr musst du die Verlaengerung spaetestens bis 15. Maerz beantragen.","faq|AGBs|Heimstatut","Du musst die Vertragsverlängerung **bis spätestens 15. März des laufenden Studienjahres** beantragen bzw. schriftlich bekannt geben. Das steht auch im mybase-Bereich als Frist für die Verlängerung des Vertrags fürs nächste Studienjahr.
+
+Wenn du möchtest, kann ich dir auch kurz sagen, **wie** du die Verlängerung beantragst.","faq | AGBs | Heimstatut","Bis wann muss ich meinen Vertrag verlaengern?","","1.7317","good","1","NA","","no_history"
+"70","1","0","sonstiges","Was ist wenn ich die Frist verpasst habe?","","","Ich konnte in den verfügbaren Viennabase-Quellen keine verlässliche Antwort auf diese Frage finden. Bitte kontaktiere das Viennabase-Büro direkt oder frage die Heimleitung, um eine sichere Auskunft zu erhalten.","","Was ist wenn ich die Frist verpasst habe?","1.0","0.4355","good","1","1","","no_history"
+"71","0","1","bewerbung","Muss ich mich jedes Jahr nur anmelden?","Nein. Dein Benutzungsvertrag gilt fuer ein Studienjahr, kann aber jaehrlich verlaengert werden, solange du studierst.","faq","Dein Benützungsvertrag gilt grundsätzlich immer für **1 Studienjahr** und kann **jährlich verlängert** werden, solange du studierst.  
+
+Falls du mit „anmelden“ die **Meldung beim Meldeamt** meinst: Dafür bekommst du bei der Schlüsselabholung den abgestempelten Meldezettel und musst dich **innerhalb von 3 Tagen** dort registrieren.  
+
+Wenn du möchtest, kann ich dir auch den Unterschied zwischen **Vertragsverlängerung** und **Meldeamt-Anmeldung** kurz erklären.","faq | Heimstatut","Muss ich mich jedes Jahr nur anmelden?","","2.1672","good","1","NA","","no_history"
+"72","0","1","vertrag","Kann ich meinen Vertrag jederzeit kuendigen?","Nein. Eine Kuendigung ist laut Quellen nur zu bestimmten Terminen und mit Fristen moeglich.","faq|AGBs","Nein, laut den verfügbaren Informationen nicht jederzeit.
+
+Für einen Auszug musst du die Kündigungsfristen einhalten:
+- **Ende Februar**: Kündigung bis spätestens **30.11. des Vorjahres**
+- **Ende Juni oder Ende Juli**: Kündigung bis spätestens **30.4. desselben Jahres**
+
+Wenn du möchtest, kann ich dir auch sagen, **wie du die Kündigung einreichst**.","faq | AGBs | Heimstatut","Kann ich meinen Vertrag jederzeit kuendigen?","","1.3353","good","1","NA","","no_history"
+"73","0","1","finanzen","Wieviel bekomme ich von meiner Kaution zurueck?","Du bekommst die Kaution nicht unbedingt voll zurueck. Die Endreinigungsgebuehr, offene Forderungen und gegebenenfalls Schaeden werden von der Kaution abgezogen.","faq|Heimstatut","Von der Kaution werden laut den verfügbaren Informationen die **Endreinigungsgebühr** abgezogen. Falls du **Schäden verursacht** hast, wird ein entsprechender Teil einbehalten. Außerdem müssen **alle finanziellen Verpflichtungen** gegenüber Viennabase erfüllt sein.
+
+Die genaue Rückzahlungshöhe kann ich aus den Quellen nicht genauer bestimmen.","faq","Wieviel bekomme ich von meiner Kaution zurueck?","","1.4363","good","1","NA","","no_history"
+"74","0","0","hausordnung","Kann ich einen Staubsauger ausleihen? Wenn ja, wo bekomme ich ihn?","","","Ich konnte in den verfügbaren Viennabase-Quellen keine verlässliche Antwort auf diese Frage finden. Bitte kontaktiere das Viennabase-Büro direkt oder frage die Heimleitung, um eine sichere Auskunft zu erhalten.","","Kann ich einen Staubsauger ausleihen? Wenn ja, wo bekomme ich ihn?","1.0","0.1548","good","1","1","","no_history"
+"75","0","1","reparatur_technik","Was soll ich tun wenn meine Heizung nicht funktioniert?","Melde das Problem ueber deinen mybase-Bereich. Bei einem dringenden technischen Notfall ausserhalb der Telefonzeiten kannst du an emergency@viennabase.at schreiben.","faq|Heimstatut","Bitte informiere uns über deinen **mybase-Bereich**, damit der Schaden schnell behoben werden kann und keine Folgeschäden entstehen. Unser **Haustechniker** kümmert sich schnellstmöglich darum.","Heimstatut | faq","Was soll ich tun wenn meine Heizung nicht funktioniert?","","1.0821","ok","1","NA","mybase ist korrekt, aber der Notfall-Hinweis ausserhalb der Telefonzeiten fehlt.","no_history"
+"76","0","1","hausordnung","Gibt es eine Nachtruhe?","Ja. Nachtruhe ist von 22:00 bis 6:00 Uhr.","faq|Heimstatut","Ja. In allen Viennabase-Häusern gilt Nachtruhe von **22:00 Uhr bis 6:00 Uhr früh**. In dieser Zeit soll man sich ruhig verhalten und Rücksicht auf andere nehmen. Laute Musik und Musizieren in Zimmern und Gemeinschaftsräumen ist generell nicht erlaubt.","faq","Gibt es eine Nachtruhe?","","2.051","good","1","NA","","no_history"
+"77","0","0","hausordnung","Was tun wenn jemand zu laut ist?","","","Die verfügbaren Quellen nennen dazu keine zuverlässige Information. Wenn du meinst, dass es um eine Störung oder einen technischen Notfall außerhalb der Telefonzeiten geht, kann ich dir die dazu passende Vorgehensweise aus dem Kontext nennen — bitte sag kurz Bescheid.","faq","Was tun wenn jemand zu laut ist?","","1.3349","good","1","1","","no_history"
+"78","1","1","hausordnung","Laute Musik in der Nacht","Laute Musik in der Nacht ist nicht erlaubt. Nachtruhe ist von 22:00 bis 6:00 Uhr, und Musizieren in Zimmern ist generell nicht gestattet.","faq|Heimstatut","Laute Musik ist in der Nacht nicht erlaubt.  
+In allen Viennabases gilt von **22:00 bis 6:00 Uhr Nachtruhe**; in dieser Zeit soll man sich ruhig verhalten und Rücksicht auf andere nehmen. Außerdem ist **laute Musik und Musizieren in den Zimmern und Gemeinschaftsräumen generell nicht erlaubt**.
+
+Wenn du möchtest, kann ich dir auch sagen, was die Quellen zu Musik tagsüber sagen.","faq","Laute Musik in der Nacht","","1.7057","good","1","NA","","no_history"
+"79","0","0","hausordnung","Was muss ich bei einem Feueralarm tun?","","","In den verfügbaren Quellen finde ich dazu keine zuverlässige, konkrete Anweisung.  
+Ich kann dir nur sagen, dass im Gebäude Rauchverbot gilt und ausgelöste Feueralarme dem Verursacher in Rechnung gestellt werden können. Wenn du möchtest, kann ich dir helfen, die passende Kontaktstelle für einen technischen Notfall außerhalb der Telefonzeiten zu finden.","faq","Was muss ich bei einem Feueralarm tun?","","2.3967","ok","1","0","Bot lehnt konkrete Verhaltensanweisung korrekt ab; nennt Zusatzinfos zu Rauchverbot/Kosten.","no_history"

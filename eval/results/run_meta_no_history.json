@@ -1,0 +1,11 @@
+{
+  "config": "no_history",
+  "n_questions": 79,
+  "n_ok": 79,
+  "n_error": 0,
+  "total_seconds": 117.56,
+  "avg_seconds_per_question": 1.488,
+  "api_url": "http://127.0.0.1:8000/ask",
+  "started_utc": "2026-04-18T23:20:09.478306+00:00",
+  "notes": "Config label is metadata only. The actual toggles (USE_EVIDENCE_THRESHOLD in chatbot.py, USE_HISTORY_REFORMULATION in api.py) must be set manually before running this script."
+}

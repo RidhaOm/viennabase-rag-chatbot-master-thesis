@@ -1,0 +1,13 @@
+config,metric,n_valid,successes,rate,ci_low_95,ci_high_95,description
+baseline,acceptable,79,66,0.8354,0.7385,0.9012,"good or ok treated as success, bad as failure"
+baseline,good,79,60,0.7595,0.6546,0.8403,Strict: only 'good' is a success
+baseline,grounded,79,73,0.9241,0.844,0.9647,"1 = grounded, 0 = ungrounded"
+baseline,correct_fallback,28,25,0.8929,0.728,0.9629,"1 = correct fallback decision, 0 = wrong; NA skipped"
+no_threshold,acceptable,79,68,0.8608,0.7676,0.9204,"good or ok treated as success, bad as failure"
+no_threshold,good,79,62,0.7848,0.6821,0.8611,Strict: only 'good' is a success
+no_threshold,grounded,79,74,0.9367,0.8603,0.9727,"1 = grounded, 0 = ungrounded"
+no_threshold,correct_fallback,25,23,0.92,0.7503,0.9778,"1 = correct fallback decision, 0 = wrong; NA skipped"
+no_history,acceptable,79,62,0.7848,0.6821,0.8611,"good or ok treated as success, bad as failure"
+no_history,good,79,52,0.6582,0.5485,0.7533,Strict: only 'good' is a success
+no_history,grounded,79,74,0.9367,0.8603,0.9727,"1 = grounded, 0 = ungrounded"
+no_history,correct_fallback,30,18,0.6,0.4232,0.7541,"1 = correct fallback decision, 0 = wrong; NA skipped"

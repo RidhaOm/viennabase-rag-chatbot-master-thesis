@@ -1,0 +1,29 @@
+# Environment & Secrets
+.env
+*.env
+
+# Virtual Environments
+.venv/
+.venv312/
+venv/
+env/
+
+# Local venv files (falls venv im Projekt liegt)
+Lib/
+/Scripts/
+pyvenv.cfg
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# IDE
+.idea/
+
+# Vector Database
+chroma_db/
+
+# Operating System
+.DS_Store
+Thumbs.db
